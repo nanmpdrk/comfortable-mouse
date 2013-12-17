@@ -12,9 +12,13 @@ This document is made by [gitfab](http://gitfab.org)
 　→どんなマウスにも対応<br>
 ・便座シートの下にクッションをいれる<br>
 　→より手にフィット<br>
-・ほっとアイマスクのシートを便座シートの裏に配置<br>
-　→あたたかくなる
+・腕と机の間にクッション
+　→腕の疲れを防ぐ<br>
 
 
 ![便座しーと.jpg](https://raw.github.com/nanmpdrk/open-source-mouse/master/gitfab/resources/便座しーと.jpg)
+
+![images.jpeg](https://raw.github.com/nanmpdrk/open-source-mouse/master/gitfab/resources/images.jpeg)
+暖かくしようと考えて、ホットカーペットのような構造にするか、充電式カイロのようにするか、レンジでチンして暖めるアナログなものにするのか悩んでいる。
+
 ---
