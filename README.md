@@ -12,8 +12,8 @@ This document is made by [gitfab](http://gitfab.org)
 　→どんなマウスにも対応<br>
 ・便座シートの下にクッションをいれる<br>
 　→より手にフィット<br>
-・腕と机の間にクッション
-　→腕の疲れを防ぐ<br>
+・ほっとアイマスクのシートを便座シートの裏に配置<br>
+　→あたたかくなる
 
 
 ![便座しーと.jpg](https://raw.github.com/nanmpdrk/open-source-mouse/master/gitfab/resources/便座しーと.jpg)
