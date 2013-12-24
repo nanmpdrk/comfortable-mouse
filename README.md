@@ -26,5 +26,9 @@ This document is made by [gitfab](http://gitfab.org)
 ![S__3670034.jpg](https://raw.github.com/nanmpdrk/open-source-mouse/master/gitfab/resources/S__3670034.jpg)
 靴下用のカイロを入れれば形、大きさともにちょうど良いと思ったので使ってみた。
 ![S__3670035.jpg](https://raw.github.com/nanmpdrk/open-source-mouse/master/gitfab/resources/S__3670035.jpg)
-あまり大きさはフィットしなかったが、ちょうど良いあたたかさが伝わってきて、触り心地も良い。
+<br><br>
+あまり大きさはフィットしなかったが、ちょうど良いあたたかさが伝わってきて、触り心地も良い。<br><br>
+
+
+
 ---
