@@ -6,19 +6,21 @@ This document is made by [gitfab](http://gitfab.org)
 
 
 
-・便座シートの貼って剥がせて洗えるものをマウスに貼る<br>
-　→汗などをかいてしまっても、洗えるから清潔<br>
-・好きなサイズに切れる<br>
-　→どんなマウスにも対応<br>
-・便座シートの下にクッションをいれる<br>
-　→より手にフィット<br>
-・腕と机の間にクッション
-　→腕の疲れを防ぐ<br>
 
 
-![便座しーと.jpg](https://raw.github.com/nanmpdrk/open-source-mouse/master/gitfab/resources/便座しーと.jpg)
+![S__3670028.jpg](https://raw.github.com/nanmpdrk/open-source-mouse/master/gitfab/resources/S__3670028.jpg)
 
-![images.jpeg](https://raw.github.com/nanmpdrk/open-source-mouse/master/gitfab/resources/images.jpeg)
-暖かくしようと考えて、ホットカーペットのような構造にするか、充電式カイロのようにするか、レンジでチンして暖めるアナログなものにするのか悩んでいる。
+![S__3670029.jpg](https://raw.github.com/nanmpdrk/open-source-mouse/master/gitfab/resources/S__3670029.jpg)
 
+![S__3670030.jpg](https://raw.github.com/nanmpdrk/open-source-mouse/master/gitfab/resources/S__3670030.jpg)
+
+![S__3670031.jpg](https://raw.github.com/nanmpdrk/open-source-mouse/master/gitfab/resources/S__3670031.jpg)
+
+![S__3670032.jpg](https://raw.github.com/nanmpdrk/open-source-mouse/master/gitfab/resources/S__3670032.jpg)
+
+![S__3670033.jpg](https://raw.github.com/nanmpdrk/open-source-mouse/master/gitfab/resources/S__3670033.jpg)
+
+![S__3670034.jpg](https://raw.github.com/nanmpdrk/open-source-mouse/master/gitfab/resources/S__3670034.jpg)
+
+![S__3670035.jpg](https://raw.github.com/nanmpdrk/open-source-mouse/master/gitfab/resources/S__3670035.jpg)
 ---
