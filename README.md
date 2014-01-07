@@ -3,13 +3,16 @@
 This document is made by [gitfab](http://gitfab.org)
 ---
 #目的
-<br><br><br>
+同じ作り方で用途に合わせてカスタマイズが行えるマウス<br>
+はずして洗ったりできるので清潔さを保てる<br>
 
 ---
 #用意するもの
 ・布 20cm×20cm<br>
 ・マジックテープ 2cm×1cm 7個、1cm×1cm 2個<br>
 ・型紙(こちらからダウンロード)<br>
+・水切りネット<br>
+・あずき、ビーズクッションなど(お好み)
 ---
 #作り方(カバー)
 1.型紙にそって布に線をつける<br>
@@ -46,4 +49,12 @@ This document is made by [gitfab](http://gitfab.org)
 11.付けあわせると、カバー完成
 
 ![2014-01-07 03.36.32.jpg](https://raw.github.com/nanmpdrk/comfortable-mouse/master/gitfab/resources/2014-01-07-03.36.32.jpg)
+---
+#作り方(中身)
+1.水切りネットを用意する
+
+![S__3964974.jpg](https://raw.github.com/nanmpdrk/comfortable-mouse/master/gitfab/resources/S__3964974.jpg)
+2.あずきなどをいれ、口を閉じる
+
+![S__3964970.jpg](https://raw.github.com/nanmpdrk/comfortable-mouse/master/gitfab/resources/S__3964970.jpg)
 ---
