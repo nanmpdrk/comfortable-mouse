@@ -57,4 +57,21 @@ This document is made by [gitfab](http://gitfab.org)
 2.あずきなどをいれ、口を閉じる
 
 ![S__3964970.jpg](https://raw.github.com/nanmpdrk/comfortable-mouse/master/gitfab/resources/S__3964970.jpg)
+(あずきの場合)
+<br>
+3.レンジで暖める
+
+
+
+![2014-01-07 14.59.52.jpg](https://raw.github.com/nanmpdrk/comfortable-mouse/master/gitfab/resources/2014-01-07-14.59.52.jpg)
+4.いれる
+
+![2014-01-07 15.02.33.jpg](https://raw.github.com/nanmpdrk/comfortable-mouse/master/gitfab/resources/2014-01-07-15.02.33.jpg)
+あったかい^^<br>
+(ビーズクッション)
+
+![S__3964975.jpg](https://raw.github.com/nanmpdrk/comfortable-mouse/master/gitfab/resources/S__3964975.jpg)
+3.いれる
+
+![S__3964976.jpg](https://raw.github.com/nanmpdrk/comfortable-mouse/master/gitfab/resources/S__3964976.jpg)
 ---
