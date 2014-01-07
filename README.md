@@ -10,9 +10,11 @@ This document is made by [gitfab](http://gitfab.org)
 #用意するもの
 ・布 20cm×20cm<br>
 ・マジックテープ 2cm×1cm 7個、1cm×1cm 2個<br>
-・型紙(こちらからダウンロード)<br>
+・型紙([katagami.pdf](https://raw.github.com/nanmpdrk/comfortable-mouse/master/gitfab/resources/katagami.pdf))<br>
 ・水切りネット<br>
 ・あずき、ビーズクッションなど(お好み)
+
+
 ---
 #作り方(カバー)
 1.型紙にそって布に線をつける<br>
