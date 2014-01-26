@@ -1,4 +1,4 @@
-# comfortable-mouse
+# hotmouse
 ## sfc2013-design-strategy   
 This document is made by [gitfab](http://gitfab.org)
 ---
@@ -76,4 +76,7 @@ This document is made by [gitfab](http://gitfab.org)
 3.いれる
 
 ![S__3964976.jpg](https://raw.github.com/nanmpdrk/comfortable-mouse/master/gitfab/resources/S__3964976.jpg)
+---
+#動画
+<A Href="http://www.youtube.com/watch?v=jqzTuMlwgls">hotmouse</A>
 ---
