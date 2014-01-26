@@ -82,5 +82,8 @@ This document is made by [gitfab](http://gitfab.org)
 ---
 #公開の仕方
 
-![CC.png](https://raw.github.com/nanmpdrk/hotmouse/master/gitfab/resources/CC.png)
+Creative Commons
+表示のみ
+---
+
 ---
